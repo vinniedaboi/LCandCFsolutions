@@ -16,7 +16,7 @@ A collection of my solutions for LeetCode and Codeforces problems in C++.
 
 Welcome to my C++ Competitive Programming Solutions repository! This project contains my C++ solutions to various problems on LeetCode and Codeforces. It serves as a resource for learning, discussion, and collaboration with the programming community.
 
-This repo will be consistently updated.
+This repo will be consistently updated. Also note that not every solution will be here, just the solutions I will be doing moving on from now as I've done too many to be uploading everything here.
 
 ## Project Structure
 
