@@ -1,20 +1,7 @@
 #include <iostream>
 #include <unordered_map>
 
-/*
 
-Example 1:
-
-Input: s = "abcabcbb"
-Output: 3
-Explanation: The answer is "abc", with the length of 3.
-
-A substring is a contiguous non-empty sequence of characters within a string.
-
-Basically the task of this question is to find the longest sub string without any repeating characters
-
-Problem right now, is that the search stops after reaching a duplicated character
-*/
 int main()
 {
 
